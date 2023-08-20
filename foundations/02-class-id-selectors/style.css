@@ -1,0 +1,19 @@
+.x{
+    background-color: rgb(231, 102, 102);
+    font-family: 'Verdana''DejaVu Sans'sans-serif;
+}
+
+#u{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.y{
+    font-size: 24px;
+}
+
+#z{
+    background-color: hsl(100, 33%, 50%);
+    font-weight: bold;
+    font-size: 24px ;
+}
