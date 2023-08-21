@@ -1,0 +1,13 @@
+.mood, .vibe{
+    font-size: 28px;
+    font-family:'Helvetica''Times New Roman'sans-serif ;
+}
+
+.mood{
+    color: #ffffff;
+    background-color: #000000;
+}
+
+.vibe{
+    background-color: #ffff00;
+}
