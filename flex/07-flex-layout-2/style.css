@@ -43,7 +43,7 @@ body {
   border-radius: 4px;
   display: flex;
   width: 300px;
-  
+  padding: 16px;
 }
 
 .content {
@@ -68,5 +68,5 @@ a {
   flex-direction: row;
   flex-wrap: wrap;
   padding: 32px;
-  gap: 20px;
+  gap: 25px;
 }
